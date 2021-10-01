@@ -1,0 +1,1 @@
+export {default} from './pricing-v-2.jsx';
